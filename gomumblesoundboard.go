@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/feuerrot/safs"
+	"github.com/foxpanther/safs"
 	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
 	"layeh.com/gumble/gumble"
