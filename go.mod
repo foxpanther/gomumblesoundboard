@@ -1,9 +1,9 @@
-module github.com/feuerrot/gomumblesoundboard
+module github.com/foxpanther/gomumblesoundboard
 
 go 1.14
 
 require (
-	github.com/feuerrot/safs v0.0.0-20200618233357-a1e956d6dc74
+	github.com/foxpanther/safs v0.0.0-20200618233357-a1e956d6dc74
 	github.com/gin-contrib/static v0.0.0-20191128031702-f81c604d8ac2
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-playground/validator/v10 v10.3.0 // indirect
