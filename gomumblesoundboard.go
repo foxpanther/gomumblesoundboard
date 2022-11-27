@@ -20,7 +20,7 @@ import (
 	_ "layeh.com/gumble/opus"
 )
 
-//go:generate go-assets-builder public -s "/public" -o assets.go
+go:generate go-assets-builder public -s "/public" -o assets.go
 
 type File struct {
 	Name     string `json:"name"`
