@@ -1,21 +1,36 @@
-module github.com/feuerrot/gomumblesoundboard
+module gomumblesoundboard.go
 
-go 1.14
+go 1.19
 
 require (
 	github.com/feuerrot/safs v0.0.0-20200618233357-a1e956d6dc74
-	github.com/gin-contrib/static v0.0.0-20191128031702-f81c604d8ac2
-	github.com/gin-gonic/gin v1.6.3
-	github.com/go-playground/validator/v10 v10.3.0 // indirect
-	github.com/golang/protobuf v1.4.2 // indirect
-	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15
+	github.com/gin-contrib/static v0.0.1
+	github.com/gin-gonic/gin v1.8.1
 	github.com/jessevdk/go-assets-builder v0.0.0-20130903091706-b8483521738f
-	github.com/jessevdk/go-flags v1.4.0 // indirect
-	github.com/json-iterator/go v1.1.10 // indirect
-	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
-	golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1 // indirect
-	google.golang.org/protobuf v1.24.0 // indirect
-	gopkg.in/yaml.v2 v2.3.0 // indirect
-	layeh.com/gumble v0.0.0-20200528195103-d5a9569f0683
+	layeh.com/gumble v0.0.0-20200818122324-146f9205029b
+)
+
+require (
+	github.com/gin-contrib/sse v0.1.0 // indirect
+	github.com/go-playground/locales v0.14.0 // indirect
+	github.com/go-playground/universal-translator v0.18.0 // indirect
+	github.com/go-playground/validator/v10 v10.10.0 // indirect
+	github.com/goccy/go-json v0.9.7 // indirect
+	github.com/golang/protobuf v1.5.0 // indirect
+	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15 // indirect
+	github.com/jessevdk/go-flags v1.5.0 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
+	github.com/leodido/go-urn v1.2.1 // indirect
+	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
+	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
+	github.com/ugorji/go/codec v1.2.7 // indirect
+	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
+	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
+	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069 // indirect
+	golang.org/x/text v0.3.6 // indirect
+	google.golang.org/protobuf v1.28.0 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
+	layeh.com/gopus v0.0.0-20161224163843-0ebf989153aa // indirect
 )
