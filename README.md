@@ -1,5 +1,5 @@
 # GoMumbleSoundboard
-This is a for of [gomumblesoundboard](https://github.com/feuerrot/gomumblesoundboard), which is a fork of [gomumblesoundboard](https://github.com/robbi5/gomumblesoundboard), which is a soundboard for [mumble](https://www.mumble.info/).
+This is a fork of [gomumblesoundboard](https://github.com/feuerrot/gomumblesoundboard), which is a fork of [gomumblesoundboard](https://github.com/robbi5/gomumblesoundboard), which is a soundboard for [mumble](https://www.mumble.info/).
 
 ## Requirements
 * go >= 1.14 (dunno, but probably a current one)
