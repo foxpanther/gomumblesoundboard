@@ -1,4 +1,4 @@
-module github.com/foxpanther/gomumblesoundboard.go
+module github.com/foxpanther/gomumblesoundboard
 
 go 1.19
 
@@ -6,7 +6,6 @@ require (
 	github.com/feuerrot/safs v0.0.0-20200618233357-a1e956d6dc74
 	github.com/gin-contrib/static v0.0.1
 	github.com/gin-gonic/gin v1.8.1
-	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15
 	github.com/jessevdk/go-assets-builder v0.0.0-20130903091706-b8483521738f
 	layeh.com/gumble v0.0.0-20200818122324-146f9205029b
 )
@@ -18,6 +17,7 @@ require (
 	github.com/go-playground/validator/v10 v10.10.0 // indirect
 	github.com/goccy/go-json v0.9.7 // indirect
 	github.com/golang/protobuf v1.5.0 // indirect
+	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15 // indirect
 	github.com/jessevdk/go-flags v1.5.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
