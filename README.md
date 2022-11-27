@@ -1,5 +1,5 @@
 # GoMumbleSoundboard
-This is a fork of [gomumblesoundboard](https://github.com/robbi5/gomumblesoundboard), which is a soundboard for [mumble](https://www.mumble.info/).
+This is a for of [gomumblesoundboard](https://github.com/feuerrot/gomumblesoundboard), which is a fork of [gomumblesoundboard](https://github.com/robbi5/gomumblesoundboard), which is a soundboard for [mumble](https://www.mumble.info/).
 
 ## Requirements
 * go >= 1.14 (dunno, but probably a current one)
@@ -12,7 +12,7 @@ Tested on debian bullseye
 
 ## Install
 ```
-go get github.com/feuerrot/gomumblesoundboard
+go get github.com/foxpanther/gomumblesoundboard
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ Then open [http://localhost:3000](http://localhost:3000) and press all the butto
 
 ## Development
 ```
-git clone https://github.com/feuerrot/gomumblesoundboard.git
+git clone https://github.com/foxpanther/gomumblesoundboard.git
 cd gomumblesoundboard
 go build .
 ```

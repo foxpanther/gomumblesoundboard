@@ -1,4 +1,4 @@
-module gomumblesoundboard.go
+module github.com/foxpanther/gomumblesoundboard.go
 
 go 1.19
 
